@@ -1,0 +1,4 @@
+﻿  graph.c
+D:\code\datastructure\datastructure\Graph\Graph\graph.c(129,29): warning C4047: “函数”:“int *”与“int [5][5]”的间接级别不同
+D:\code\datastructure\datastructure\Graph\Graph\graph.c(129,25): warning C4024: “creatGraph”: 形参和实参 3 的类型不同
+  Graph.vcxproj -> D:\code\datastructure\datastructure\Graph\x64\Debug\Graph.exe
