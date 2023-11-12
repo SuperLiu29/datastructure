@@ -1,0 +1,3 @@
+﻿  stack.c
+D:\code\Stacktext\Stacktext\stack.c(17,15): warning C4133: “=”: 从“st *”到“dataType *”的类型不兼容
+  Stacktext.vcxproj -> D:\code\Stacktext\Debug\Stacktext.exe
