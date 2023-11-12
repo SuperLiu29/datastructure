@@ -1,0 +1,3 @@
+﻿  forceMatch.c
+D:\code\数据结构\string forceMatch\string forceMatch\forceMatch.c(8): warning C4716: “initString”: 必须返回一个值
+  string forceMatch.vcxproj -> D:\code\数据结构\string forceMatch\Debug\string forceMatch.exe
