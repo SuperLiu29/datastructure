@@ -1,0 +1,6 @@
+﻿  levelTraverse.c
+D:\code\数据结构\levelTraverse\levelTraverse\levelTraverse.c(68,3): warning C4033: “deQueue”必须返回值
+  text.c
+  正在生成代码...
+D:\code\数据结构\levelTraverse\levelTraverse\levelTraverse.c(78): warning C4715: “deQueue”: 不是所有的控件路径都返回值
+  levelTraverse.vcxproj -> D:\code\数据结构\levelTraverse\Debug\levelTraverse.exe
